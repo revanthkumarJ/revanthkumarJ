@@ -16,12 +16,6 @@
 -  🏅 LeetCode Knight badge holder.
 - 🎓 GFG Campus Ambassador.
 
-## 📊 My GitHub Data:
-
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revanthkumarJ&show_icons=true&locale=en&layout=compact" alt="revanthkumarJ" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&locale=en" alt="revanthkumarJ" /></p>
-</div>
 
 
 ## 🛠️ Technologies and Tools I Use:
@@ -71,6 +65,14 @@
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
 </p>
+
+
+## 📊 My GitHub Data:
+
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revanthkumarJ&show_icons=true&locale=en&layout=compact" alt="revanthkumarJ" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&locale=en" alt="revanthkumarJ" /></p>
+</div>
 
 ## 🌐 Coding Profiles:
 <p align="center">
