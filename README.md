@@ -12,15 +12,15 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="Revanth" /> </p>
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://nagarjuna.vercel.app/)** -->
 
-- 🔭 I’m currently working on `different things`.
+- 🔭 I’m currently working on `improving development skills`.
 
-- 🌱 I’m currently learning `Native Android Development`
+- 🌱 I’m currently learning `Native Android Development and Express JS`
 
 <!-- - 💬 Ask me about anything -->
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revanthkumarJ&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" /></p>
 
