@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Revanth" /> </p>
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
 
 - 🔭 I’m currently working on `improving development skills`.
 - 🌱 I’m currently learning `Native Android Development and Express JS`.
