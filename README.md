@@ -51,13 +51,12 @@ Here are some ideas to get you started: -->
 <a href="https://leetcode.com/u/RevanthKumarJ/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/jilakararevanthkumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
+
 ## 📊 My GitHub Data:
 
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjuna0033&show_icons=true&locale=en&layout=compact" alt="nagarjuna0033" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarjuna0033&show_icons=true&locale=en" alt="nagarjuna0033" /></p>
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/revanthkumarJ/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/revanthkumarJ/github-stats-transparent/output/generated/languages.svg)
-
+</div>
