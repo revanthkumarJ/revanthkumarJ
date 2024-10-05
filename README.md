@@ -61,17 +61,8 @@ Here are some ideas to get you started: -->
 </div>
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-### :bar_chart: [Coding time in the last month](https://github.com/revanthkumarJ/wakapi)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown         10 hrs 20 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.38 %
-Rust             8 hrs 12 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.59 %
-Typst            6 hrs 0 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.67 %
-Python           4 hrs 32 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.06 %
-TypeScript       4 hrs 17 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.60 %
-```
-
-<!--END_SECTION:waka-->
