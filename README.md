@@ -18,7 +18,7 @@
 
 ## 🛠️ Technologies and Tools I Use:
 
-### Frontend:
+### Web Frontend:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
@@ -27,11 +27,17 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 </p>
 
+### App Development Frontend:
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB" height="25px"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB" height="25px"/>
+</p>
+
 ### Backend:
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" height="25px"/>
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
 </p>
 
 ### Database:
@@ -39,12 +45,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
 </p>
 
-### Other:
+### Others:
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB" height="25px"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB" height="25px"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 </p>
 
 ## 🌐 Coding Profiles:
