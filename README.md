@@ -14,7 +14,6 @@
 - 🔭 I’m currently working on `improving development skills`.
 - 🌱 I’m currently learning `Native Android Development and Express JS`.
 - 👨‍💻 Life Hack: Learn and :fire: and share :tada:
-- ⚡ Fun fact: I don't love to code.
 -  🏅 LeetCode Knight badge holder.
 - 🎓 GFG Campus Ambassador.
 
