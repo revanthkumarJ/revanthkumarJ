@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Revanth Kumar</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm J.Revanth Kumar</h1>
 
 <div align="center">
   <!-- <img src ="./banner.png" /> -->
@@ -15,6 +15,7 @@
 - 👨‍💻 Life Hack: Learn and :fire: and share :tada:
 -  🏅 LeetCode Knight badge holder.
 - 🎓 GFG Campus Ambassador.
+- 🎓 Studying E3 CSE at RGUKT RK Valley.
 
 ## 📊 My GitHub Data:
 
