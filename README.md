@@ -19,10 +19,6 @@
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revanthkumarJ&show_icons=true&locale=en&layout=compact" alt="revanthkumarJ" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&locale=en" alt="revanthkumarJ" /></p>
-</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revanthkumarJ&theme=dark&hide_border=false)<br/>
