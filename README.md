@@ -24,6 +24,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&locale=en" alt="revanthkumarJ" /></p>
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=revanthkumarJ-9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=revanthkumarJ-9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ-9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 🛠️ Technologies and Tools I Use:
 
