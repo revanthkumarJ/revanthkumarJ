@@ -1,28 +1,39 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm J.Revanth Kumar</h1>
 
 <div align="center">
-  <!-- <img src ="./banner.png" /> -->
+  	
+  <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
+
+  <p><code>A Man Who Codes & Designs Using His Hidden Creativity.</code></p>
+  
+  <img src="./thoughtworks-gif_dribbble.gif" height="200px" alt="ThoughtWorks GIF" />
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+  </p>
+  
+  <h2 align="center">Web Development ▸ Software Development ◂ App Development</h2>
+  
 </div>
+
 
 <br/>
 
-## 👨🏻‍💻 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Revanth" /> </p>
-<img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
+## 🙋🏻‍♂️ **About Me**
 
-- 🔭 I’m currently working on `improving development skills`.
-- 🌱 I’m currently learning `Native Android Development and Express JS`.
-- 👨‍💻 Life Hack: Learn and :fire: and share :tada:
--  🏅 LeetCode Knight badge holder.
-- 🎓 GFG Campus Ambassador.
-- 🎓 Studying E3 CSE at RGUKT RK Valley.
+Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
+Most importantly, I'm a reliable designer you can rely on for all your design needs.
+</div><hr>
 
-## 📊 My GitHub Data:
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&theme=react-dark&hide_border=true&area=true) <hr>
 
 
-![](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=revanthkumarJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">📊 My Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthkumarJ&theme=algolia" alt="codeaashu" /></a> </p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
+
+</div> <hr>
 
 
 
