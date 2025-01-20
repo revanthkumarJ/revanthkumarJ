@@ -20,9 +20,8 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
-Most importantly, I'm a reliable designer you can rely on for all your design needs.
-</div><hr>
+Passionate Full Stack Developer & Designer with expertise in creating user-friendly Websites & Apps.
+I focus on clean design, efficient development, and delivering reliable solutions. With experience in building 5+ projects, I aim to enhance brand presence and provide impactful digital experiences.
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&theme=react-dark&hide_border=true&area=true) <hr>
 
