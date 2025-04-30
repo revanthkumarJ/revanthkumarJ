@@ -20,8 +20,10 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-Passionate Full Stack Developer & Designer with expertise in creating user-friendly Websites & Apps.
-I focus on clean design, efficient development, and delivering reliable solutions. With experience in building 5+ projects, I aim to enhance brand presence and provide impactful digital experiences.
+I'm a **Passionate Full Stack Developer & Designer** with a strong focus on crafting user-friendly websites and mobile apps. I believe in clean design, efficient development, and delivering impactful digital experiences.
+
+Specializing in **Android Development**, **Version Control**, and modern technologies like **KMP** (Kotlin Multiplatform) and **Compose Multiplatform (CMP)**, I bring hands-on experience by contributing to **real-world applications** and **open-source projects** over the past several months.
+
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&theme=react-dark&hide_border=true&area=true) <hr>
 
@@ -36,9 +38,9 @@ I focus on clean design, efficient development, and delivering reliable solution
 
 
 
-## 🛠️ Technologies and Tools I Use:
+## 🛠️ Technologies & Tools I Use
 
-### Web Frontend:
+### 🌐 Web Development
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
@@ -47,36 +49,55 @@ I focus on clean design, efficient development, and delivering reliable solution
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 </p>
 
-### App Development Frontend:
+### 📱 App Development
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=android&logoColor=61DAFB" height="25px"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="25px"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB" height="25px"/>
+  <img alt="KMP (Kotlin Multiplatform)" src="https://img.shields.io/badge/KMP-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
+  <img alt="CMP (Compose Multiplatform)" src="https://img.shields.io/badge/CMP-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
+  <img alt="Hilt" src="https://img.shields.io/badge/Hilt-ED8B00?style=for-the-badge&logo=android&logoColor=white" height="25px"/>
+  <img alt="Koin" src="https://img.shields.io/badge/Koin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>
 </p>
 
-### Backend:
+### ⚙️ Backend Development
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" height="25px"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" height="25px"/>
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 </p>
 
-### Database:
+### 💾 Databases
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" height="25px"/>
-
 </p>
 
-### Others:
+### 🔧 Version Control & Dev Tools
 <p>
-  <img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25px"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 </p>
+
+### 🌐 Communication & Collaboration
+<p>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="25px"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25px"/>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
+</p>
+
+### ☁️ Cloud & Firebase
+<p>
+  <img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25px"/>
+</p>
+
+### 🧑‍💻 Programming Languages
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+</p>
+
 
 ### IDEs:
 <p>
