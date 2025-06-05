@@ -20,9 +20,12 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-I'm a **Passionate Full Stack Developer & Designer** with a strong focus on crafting user-friendly websites and mobile apps. I believe in clean design, efficient development, and delivering impactful digital experiences.
+I'm a **Passionate Full Stack & Android Developer** focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.
 
-Specializing in **Android Development**, **Version Control**, and modern technologies like **KMP** (Kotlin Multiplatform) and **Compose Multiplatform (CMP)**, I bring hands-on experience by contributing to **real-world applications** and **open-source projects** over the past several months.
+Currently working as an **MSOC 2025 Intern**, where I’m contributing to the **migration of an Android Field Officer application to Kotlin Multiplatform (KMP)**. Alongside, I serve as an **Android Intern at MobileByteSensei**, working on **real-time Play Store applications**, enhancing core functionalities using **KMP** and **Compose Multiplatform (CMP)**.
+
+With practical experience from real-world projects and open-source contributions, I bring modern development practices, strong version control, and cross-platform expertise to the table.
+
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&theme=react-dark&hide_border=true&area=true) <hr>
