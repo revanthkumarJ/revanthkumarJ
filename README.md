@@ -30,6 +30,39 @@ With practical experience from real-world projects and open-source contributions
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&theme=react-dark&hide_border=true&area=true) <hr>
 
+## 💼 Experience
+
+### 📌 Mifos Initiative — *Open Source Contributor / MSOC 2025 Intern*  
+*Jan 2025 – Present | Remote*  
+
+- 🚀 Migrated **20+ core and feature modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
+- 🎨 Contributed to complete UI overhaul of **mifos-mobile** and **android-client**.  
+- 🔧 Merged **85+ PRs**, resolved critical bugs, and co-authored major migrations.  
+- 🏆 Selected for the prestigious **Mifos Summer of Code 2025** program (awarded to top contributors who narrowly missed Google Summer of Code).  
+- 🤝 Actively participated in **architecture discussions, PR reviews, documentation, and Agile processes**.  
+- 🛠️ **Tech Stack & Practices:**  
+  - Navigation & Networking → Type-safe Navigation, Ktorfit, Room  
+  - UI & Theming → Jetpack, Material Theme, Compose Multiplatform  
+  - Architecture → MVVM, Clean Architecture, Coroutines & Flows  
+  - Dependency Injection → Koin, Hilt  
+  - Utilities → FileKit, language translation, Android compatibility 
+---
+
+### 📌 MobileByteSensei — *Mobile Development Intern*  
+*May 2025 – Present | Remote*  
+
+- 📱 Contributed to Play Store apps including **Social Media Downloader** and **Byte Wallpaper**.  
+- 🎨 Built responsive UIs with **Jetpack Compose**, applying modern UX practices.  
+- ⚡ Implemented **WhatsApp Status Downloader feature**, which significantly increased downloads (currently **8K+ installs**).  
+- 🔐 Handled **permissions, storage access, localization, and Android version compatibility**.  
+- 🛠️ **Tech Stack & Practices:**  
+  - Networking & Data → Ktorfit, Room  
+  - Dependency Injection → Koin  
+  - Permissions & Storage → Moko-Permissions, SAF, File API, Media Store  
+  - Background & Scheduling → Jobs API
+  - UI Development → Jetpack Compose  
+  
+
 
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthkumarJ&theme=algolia" alt="revanthKumarJ" /></a> </p>
