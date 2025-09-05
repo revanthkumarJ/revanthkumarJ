@@ -32,8 +32,8 @@ With practical experience from real-world projects and open-source contributions
 
 ## 💼 Experience
 
-### 📌 [Mifos Initiative](https://mifos.org/) — *Open Source Contributor / MSOC 2025 Intern*  
-*Jan 2025 – Present | Remote*  
+### 📌 [Mifos Initiative](https://mifos.org/) —  **MSOC 2025 Intern & Open Source Contributor**  
+*Nov 2024 – Present | Remote*  
 
 - 🚀 Migrated **20+ core and feature modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
 - 🎨 Contributed to complete UI overhaul of **[mifos-mobile](https://play.google.com/store/apps/details?id=org.mifos.mobile)** and **[android-client](https://play.google.com/store/apps/details?id=com.mifos.mifosxdroid)**.  
@@ -52,7 +52,7 @@ With practical experience from real-world projects and open-source contributions
 ---
 
 ### 📌 [MobileByteSensei](https://www.mobilebytesensei.com/) — *Mobile Development Intern*  
-*May 2025 – Present | Remote*  
+*April 2025 – Present | Remote*  
 
 - 📱 Contributed to Play Store apps:  
   - [**Social Media Downloader**](https://play.google.com/store/apps/details?id=com.sensei.social&pcampaignid=web_share)  
