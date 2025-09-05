@@ -61,16 +61,17 @@ With practical experience from real-world projects and open-source contributions
   - Permissions & Storage → Moko-Permissions, SAF, File API, Media Store  
   - Background & Scheduling → Jobs API
   - UI Development → Jetpack Compose  
-  
+
 ---
 
-### 📌 Abhiyanth (RGUKT RK Valley) — *Frontend Team Lead & Developer*  
+### 📌 [Abhiyanth (RGUKT RK Valley)](https://abhiyanthrkv.in/) — *Frontend Team Lead & Developer*  
 *Dec 2024 – Mar 2025 | Remote*  
 
 - 👨‍💻 Led the **frontend team** for the annual TechnoCultural Fest.  
 - 🚀 Built and integrated **React + Firebase** frontend with database and admin panel.  
-- 🔧 Reviewed & merged PRs, deployed on Firebase Hosting.  
+- 🔧 Reviewed & merged PRs, deployed on **Firebase Hosting**.  
 - 🛠️ **Tech Stack:** React.js, Firebase, Firestore, Git/GitHub, Redux.  
+
 
 ---
 
