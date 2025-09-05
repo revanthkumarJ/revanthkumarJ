@@ -62,7 +62,27 @@ With practical experience from real-world projects and open-source contributions
   - Background & Scheduling → Jobs API
   - UI Development → Jetpack Compose  
   
+---
 
+### 📌 Abhiyanth (RGUKT RK Valley) — *Frontend Team Lead & Developer*  
+*Dec 2024 – Mar 2025 | Remote*  
+
+- 👨‍💻 Led the **frontend team** for the annual TechnoCultural Fest.  
+- 🚀 Built and integrated **React + Firebase** frontend with database and admin panel.  
+- 🔧 Reviewed & merged PRs, deployed on Firebase Hosting.  
+- 🛠️ **Tech Stack:** React.js, Firebase, Firestore, Git/GitHub, Redux.  
+
+---
+
+### 📌 DevDisplay — *Open Source Contributor (React)*  
+*Jan 2025 – Feb 2025 | Remote*  
+
+- 💻 Contributed **UI enhancements and new pages** (Sponsors, About Us, Journey).  
+- 🛠️ Fixed layout bugs and merged **10+ PRs** using React + Tailwind CSS.
+
+---
+
+✨ *In addition, I have also worked as a* **GFG Campus Ambassador, GirlScript Summer of Code Campus Ambassador, Class Representative, CSE Department DSA Student Coordinator, and DPISC (Core Coordinator, Placement Cell of RGUKT)** *— strengthening my leadership, communication, and community-building skills.*  
 
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthkumarJ&theme=algolia" alt="revanthKumarJ" /></a> </p>
