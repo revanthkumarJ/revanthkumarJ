@@ -77,7 +77,7 @@ With practical experience from real-world projects and open-source contributions
 - 🚀 Built and integrated **React + Firebase** frontend with database and admin panel.  
 - 🔧 Reviewed & merged **80+ PRs**, deployed on **Firebase Hosting**.  
 - 🛠️ **Tech Stack:** React.js, Firebase, Firestore, Git/GitHub, Redux.  
-- 🛠️ Merged **10+ PRs**: [Merged PRs](https://github.com/Student-Recreation-Center-CSE-RKV/Abhiyanth-Client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)  
+- 🛠️ Merged **80+ PRs**: [Merged PRs](https://github.com/Student-Recreation-Center-CSE-RKV/Abhiyanth-Client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)  
 
 ---
 
