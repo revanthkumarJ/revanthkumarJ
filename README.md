@@ -32,12 +32,14 @@ With practical experience from real-world projects and open-source contributions
 
 ## 💼 Experience
 
-### 📌 Mifos Initiative — *Open Source Contributor / MSOC 2025 Intern*  
+### 📌 [Mifos Initiative](https://mifos.org/) — *Open Source Contributor / MSOC 2025 Intern*  
 *Jan 2025 – Present | Remote*  
 
 - 🚀 Migrated **20+ core and feature modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
-- 🎨 Contributed to complete UI overhaul of **mifos-mobile** and **android-client**.  
-- 🔧 Merged **85+ PRs**, resolved critical bugs, and co-authored major migrations.  
+- 🎨 Contributed to complete UI overhaul of **[mifos-mobile](https://play.google.com/store/apps/details?id=org.mifos.mobile)** and **[android-client](https://play.google.com/store/apps/details?id=com.mifos.mifosxdroid)**.  
+- 🔧 Merged **90+ PRs**, resolved critical bugs, and co-authored major migrations:  
+  - **[mifos-mobile PRs](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)** (39+ merged)  
+  - **[android-client PRs](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthKumarJ)** (50+ merged)  
 - 🏆 Selected for the prestigious **Mifos Summer of Code 2025** program (awarded to top contributors who narrowly missed Google Summer of Code).  
 - 🤝 Actively participated in **architecture discussions, PR reviews, documentation, and Agile processes**.  
 - 🛠️ **Tech Stack & Practices:**  
@@ -45,22 +47,26 @@ With practical experience from real-world projects and open-source contributions
   - UI & Theming → Jetpack, Material Theme, Compose Multiplatform  
   - Architecture → MVVM, Clean Architecture, Coroutines & Flows  
   - Dependency Injection → Koin, Hilt  
-  - Utilities → FileKit, language translation, Android compatibility 
+  - Utilities → FileKit, language translation, Android compatibility  
+
 ---
 
-### 📌 MobileByteSensei — *Mobile Development Intern*  
+### 📌 [MobileByteSensei](https://www.mobilebytesensei.com/) — *Mobile Development Intern*  
 *May 2025 – Present | Remote*  
 
-- 📱 Contributed to Play Store apps including **Social Media Downloader** and **Byte Wallpaper**.  
+- 📱 Contributed to Play Store apps:  
+  - [**Social Media Downloader**](https://play.google.com/store/apps/details?id=com.sensei.social&pcampaignid=web_share)  
+  - [**Byte Wallpaper**](https://play.google.com/store/apps/details?id=org.mobilebytesensei.wallpaper&pcampaignid=web_share)  
 - 🎨 Built responsive UIs with **Jetpack Compose**, applying modern UX practices.  
-- ⚡ Implemented **WhatsApp Status Downloader feature**, which significantly increased downloads (currently **8K+ installs**).  
+- ⚡ Implemented **WhatsApp Status Downloader feature**, significantly increasing downloads (**8K+ installs**).  
 - 🔐 Handled **permissions, storage access, localization, and Android version compatibility**.  
 - 🛠️ **Tech Stack & Practices:**  
-  - Networking & Data → Ktorfit, Room  
-  - Dependency Injection → Koin  
-  - Permissions & Storage → Moko-Permissions, SAF, File API, Media Store  
-  - Background & Scheduling → Jobs API
-  - UI Development → Jetpack Compose  
+  - Networking & Data → **Ktorfit, Room**  
+  - Dependency Injection → **Koin**  
+  - Permissions & Storage → **Moko-Permissions, SAF, File API, Media Store**  
+  - Background & Scheduling → **Jobs API**  
+  - UI Development → **Jetpack Compose**  
+
 
 ---
 
@@ -69,17 +75,18 @@ With practical experience from real-world projects and open-source contributions
 
 - 👨‍💻 Led the **frontend team** for the annual TechnoCultural Fest.  
 - 🚀 Built and integrated **React + Firebase** frontend with database and admin panel.  
-- 🔧 Reviewed & merged PRs, deployed on **Firebase Hosting**.  
+- 🔧 Reviewed & merged **80+ PRs**, deployed on **Firebase Hosting**.  
 - 🛠️ **Tech Stack:** React.js, Firebase, Firestore, Git/GitHub, Redux.  
-
+- 🛠️ Merged **10+ PRs**: [Merged PRs](https://github.com/Student-Recreation-Center-CSE-RKV/Abhiyanth-Client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)  
 
 ---
 
-### 📌 DevDisplay — *Open Source Contributor (React)*  
+### 📌 [DevDisplay](https://github.com/codeaashu/DevDisplay) — *Open Source Contributor (React)*  
 *Jan 2025 – Feb 2025 | Remote*  
 
 - 💻 Contributed **UI enhancements and new pages** (Sponsors, About Us, Journey).  
-- 🛠️ Fixed layout bugs and merged **10+ PRs** using React + Tailwind CSS.
+- 🛠️ Fixed layout bugs and merged **10+ PRs**: [Merged PRs](https://github.com/codeaashu/DevDisplay/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)  
+- 🛠️ **Tech Stack:** React.js, Tailwind CSS, Git/GitHub
 
 ---
 
