@@ -1,24 +1,7 @@
 
-<div align="center">
   	
   <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
 
-  <p><code>A Man Who Codes & Designs Using His Hidden Creativity.</code></p>
-  
-  <img src="./thoughtworks-gif_dribbble.gif" height="200px" alt="ThoughtWorks GIF" />
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-  </p>
-  
-  <h2 align="center">Web Development ▸ Software Development ◂ App Development</h2>
-  
-</div>
-
-
-<br/>
-
-## 🙋🏻‍♂️ **About Me**
 
 I'm a **Passionate Full Stack & Android Developer** focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.
 
