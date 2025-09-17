@@ -3,11 +3,12 @@
   <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
 
 
-I'm a **Passionate Full Stack & Android Developer** focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.
+I'm a **Passionate Full Stack & Android Developer** focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.  
 
-Currently working as an **MSOC 2025 Intern**, where I’m contributing to the **migration of an Android Field Officer application to Kotlin Multiplatform (KMP)**. Alongside, I serve as an **Android Intern at MobileByteSensei**, working on **real-time Play Store applications**, enhancing core functionalities using **KMP** and **Compose Multiplatform (CMP)**.
+Currently working as an **MSOC 2025 Intern**, where I’m contributing to the **migration of an Android Field Officer application to Kotlin Multiplatform (KMP)**. Alongside, I serve as an **Android Intern at MobileByteSensei**, working on **real-time Play Store applications**, enhancing core functionalities using **KMP** and **Compose Multiplatform (CMP)**.  
 
-With practical experience from real-world projects and open-source contributions, I bring modern development practices, strong version control, and cross-platform expertise to the table.
+With practical experience from real-world projects and open-source contributions, I bring **modern development practices** like **CI/CD with GitHub Actions, Firebase App Distribution, Firebase Analytics, and Crashlytics**, along with strong version control and cross-platform expertise.  
+
 
 
 
