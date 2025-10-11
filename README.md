@@ -36,7 +36,6 @@ With practical experience from real-world projects and open-source contributions
 ---
 
 ### 📌 [MobileByteSensei](https://www.mobilebytesensei.com/) — *Mobile Development Intern*  
-*April 2025 – Present | Remote*  
 
 - 📱 Contributed to Play Store apps:  
   - [**Social Media Downloader**](https://play.google.com/store/apps/details?id=com.sensei.social&pcampaignid=web_share)  
