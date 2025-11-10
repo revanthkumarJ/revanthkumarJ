@@ -12,9 +12,6 @@ With practical experience from real-world projects and open-source contributions
 
 ## 📈 GitHub Overview
 
-![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=pie&theme=tokyonight)
 
 [![Revanth's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/revanthKumarJ)
 
@@ -80,13 +77,10 @@ With practical experience from real-world projects and open-source contributions
 ✨ *In addition, I have also worked as a* **GFG Campus Ambassador, GirlScript Summer of Code Campus Ambassador, Class Representative, CSE Department DSA Student Coordinator, and DPISC (Core Coordinator, Placement Cell of RGUKT)** *— strengthening my leadership, communication, and community-building skills.*  
 
 <h3 align="center">📊 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthkumarJ&theme=algolia" alt="revanthKumarJ" /></a> </p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
 
-</div> <hr>
-
+![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=pie&theme=tokyonight)
 
 
 ## 🛠️ Technologies & Tools I Use
