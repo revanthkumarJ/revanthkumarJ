@@ -1,4 +1,4 @@
-  	
+
   <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
 
 
@@ -12,8 +12,10 @@ With practical experience from real-world projects and open-source contributions
 
 ## 📈 GitHub Overview
 
-![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&theme=tokyonight)
+![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=pie&theme=tokyonight)
+
 [![Revanth's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/revanthKumarJ)
 
 ## 💼 Experience
