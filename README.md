@@ -10,9 +10,10 @@
 
 ## 👨‍💻 About Me
 
-Full-stack Android engineer with **2+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **100+ merged PRs** and **170+ code reviews** across enterprise-level open-source projects.
+Full-stack Android engineer with **1+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **100+ merged PRs** and **170+ code reviews** across enterprise-level open-source projects.
 
-Currently contributing to fintech innovation at **Swipe (YC S21)** while maintaining active involvement in the **Mifos Initiative** ecosystem.
+Currently working as an **Android Intern at Swipe (YC S21)** while staying involved in open-source and learning whenever possible from real-time code.
+
 
 ### Key Expertise
 - 🏗️ Clean Architecture & SOLID Principles
@@ -40,7 +41,6 @@ Contributing to Android application development using cutting-edge technologies 
 
 - Developed Android application features using Kotlin and Jetpack libraries
 - Implemented modern UI components following Material Design guidelines
-- Collaborated with cross-functional teams to deliver product requirements
 
 **Tech Stack:** Kotlin • Android Jetpack • Material Design
 
@@ -49,30 +49,28 @@ Contributing to Android application development using cutting-edge technologies 
 ### Cross-Platform Mobile Developer | **Mifos Initiative**
 *Nov 2024 – Dec 2025 | Remote*
 
-**Mifos Summer of Code 2025 Scholar** — Selected for competitive 4-month paid internship ($2,500 stipend)
+**Mifos Summer of Code 2025** — Selected for competitive 4-month paid internship ($2,500 stipend)
 
 #### Impact & Achievements
 - **Authored 100+ PRs** across 4 production repositories with 98% merge rate
 - **Migrated 20+ modules** from Android-native to Kotlin Multiplatform architecture
 - **Reviewed 170+ pull requests**, ensuring code quality and architectural consistency
 - Led UI/UX redesign initiatives improving user experience across banking applications
-- Mentored 15+ contributors through code reviews and architectural guidance
+- Mentored 5+ contributors through code reviews and architectural guidance
 
 #### Key Contributions by Repository
 
-**🏦 [Android Client](https://github.com/openMF/android-client)** — Field Officer Banking Application
+**🏦 [Android Client](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Field Officer Banking Application
 - 50+ merged PRs implementing critical features and bug fixes
 - Redesigned core banking workflows with improved UX patterns
-- Migrated legacy XML views to Jetpack Compose
 
-**📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile)** — Customer Banking App
+**📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Customer Banking App
 - 39+ merged PRs focused on feature development and architectural improvements
 - Implemented type-safe navigation using Compose Navigation
 - Enhanced app stability through comprehensive testing
 
-**💳 [Mifos Pay](https://github.com/openMF/mobile-wallet)** — Mobile Wallet Application
+**💳 [Mifos Pay](https://github.com/openMF/mobile-wallet/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Mobile Wallet Application
 - 10+ merged PRs improving wallet functionality
-- Integrated modern payment processing features
 - Optimized app performance and resource utilization
 
 **Tech Stack:** Kotlin • KMP • CMP • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Room • Ktor • Koin • Material Design 3 • Google Maps SDK
@@ -82,7 +80,7 @@ Contributing to Android application development using cutting-edge technologies 
 ### Mobile Development Intern | **MobileByteSensei**
 *Apr 2025 – Nov 2025 | Remote*
 
-Developed and maintained **7 production-grade KMP applications** with focus on cross-platform architecture and user experience.
+Developed  **7 production-grade KMP applications** with focus on cross-platform architecture and user experience.
 
 #### Notable Achievement
 - **WhatsApp Status Downloader** — Architected and launched application achieving **10,000+ installs**
@@ -112,7 +110,6 @@ Beyond technical contributions, I've held leadership positions strengthening my 
 - **GFG Campus Ambassador** — Organized technical workshops and coding competitions
 - **GirlScript Summer of Code Campus Ambassador** — Promoted open-source culture
 - **CSE Department DSA Coordinator** — Mentored students in data structures and algorithms
-- **DPISC Core Coordinator (Placement Cell)** — Assisted students with career development
 - **Class Representative** — Bridged communication between students and faculty
 
 ---
