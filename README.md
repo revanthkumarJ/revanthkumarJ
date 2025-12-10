@@ -1,190 +1,205 @@
+# Revanth Kumar Jilakara
 
-  <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
+**Android Engineer | Kotlin Multiplatform Specialist | Open Source Contributor**
 
-
-I'm a **Passionate Full Stack & Android Developer** focused on building clean, scalable, and user-friendly mobile and web experiences.
-
-I’m currently working as an **Android Developer Intern at Swipe (YC S21)**.
-
-Previously, I’ve interned at **Mifos Initiative**, **MobileByteSensei**, and **TLDE Technologies** — all in **mobile application development using Kotlin**.
-
-I enjoy working with **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform (KMP)**, **Compose Multiplatform (CMP)**, and modern development tools to build impactful, real-world solutions.
- 
-
-## 📈 GitHub Overview
-
-
-[![Revanth's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/revanthKumarJ)
-
-## 💼 Experience
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jilakararevanthkumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/RevanthKumarJ/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:jrevanth101@gmail.com)
 
 ---
 
-### 📌 **Swipe (YC S21)** — *Android Developer Intern*  
-*Dec 2025 – Present | Hyderabad (On-site)*  
+## 👨‍💻 About Me
 
-- 🚀 **Currently working** as an Android Developer Intern.  
-- Will be contributing to **Kotlin**, **Jetpack Compose**, and modern Android architecture.  
-- Excited to learn, contribute, and grow with the team.  
-- **Tech Stack:** Kotlin, Android Development, Android Jetpack  
+Full-stack Android engineer with **2+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **100+ merged PRs** and **170+ code reviews** across enterprise-level open-source projects.
 
----
+Currently contributing to fintech innovation at **Swipe (YC S21)** while maintaining active involvement in the **Mifos Initiative** ecosystem.
 
-### 📌 **TLDE Technologies** — *Software Engineer Intern (Android)*  
-*Nov 2025 – Dec 2025 | Remote*  
-
-- 🔧 Worked on **Android application development** using Kotlin and Jetpack libraries.  
-- 📱 Built UI components and implemented app features with modern Android tools.  
-- **Tech Stack:** Kotlin, Android Jetpack  
+### Key Expertise
+- 🏗️ Clean Architecture & SOLID Principles
+- 🚀 Kotlin Multiplatform (KMP) & Compose Multiplatform (CMP)
+- 📱 Modern Android Development (Jetpack Compose, Material Design 3)
+- 🔄 Dependency Injection (Koin, Hilt)
+- 🧪 Test-Driven Development & CI/CD
+- 👥 Code Review & Mentorship
 
 ---
 
-### 📌 **Mifos Initiative** — *Cross-Platform Mobile Developer & MSOC 2025 Intern*  
-*Nov 2024 – Dec 2025 | Remote*  
+## 💼 Professional Experience
 
-#### 🏆 Role Summary  
-- Contributed across **Mifos Mobile**, **Android Client**, **Mifos Pay**, and **kmp-project-template** for **1+ year**.  
-- Completed **Mifos Summer of Code 2025**, a **4-month paid internship** ($2500 stipend).  
+### Android Developer Intern | **Swipe (YC S21)**
+*Dec 2025 – Present | Hyderabad, India*
 
-#### 🚀 Key Achievements  
-- Authored **100+ PRs**, co-authored **20+**, and reviewed **170+**.  
-- Migrated **20+ modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
-- Redesigned UI flows, implemented new features, and fixed critical bugs.  
-- Followed **SOLID**, **Clean Architecture**, and **modular architecture** principles.  
-- Engaged in standups, PR reviews, mentoring contributors, and documentation improvements.
+Contributing to Android application development using cutting-edge technologies and modern architecture patterns.
 
-#### 🔗 Major PR Contributions  
-
-[![Android Client – 50+ PRs](https://img.shields.io/badge/Android%20Client-50%2B%20Merged%20PRs-green)](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthKumarJ)
-[![Mifos Mobile – 39+ PRs](https://img.shields.io/badge/Mifos%20Mobile-39%2B%20Merged%20PRs-blue)](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)
-[![Mifos Pay – 10+ PRs](https://img.shields.io/badge/Mifos%20Pay-10%2B%20Merged%20PRs-orange)](https://github.com/openMF/mobile-wallet/pulls?q=is%3Apr+is%3Amerged+author%3ArevanthkumarJ)
-[![Reviewed PRs – 150+](https://img.shields.io/badge/Reviewed%20PRs-150%2B-purple)](https://github.com/pulls?q=is%3Apr+reviewed-by%3ArevanthKumarJ+org%3AopenMF+)
-
-
-
-#### 🛠️ Tech Stack  
-Kotlin, Jetpack, Material Design, KMP, CMP, Coroutines, Room, Ktorfit, FileKit, Google Maps SDK, Settings API,  
-MVVM, Clean Architecture, Type-safe Navigation, Koin 
+**Tech Stack:** Kotlin • Jetpack Compose • Android Jetpack • MVVM
 
 ---
 
-### 📌 **MobileByteSensei** — *Mobile Development Intern (KMP & CMP Focused)*  
-*Apr 2025 – Nov 2025 | Remote*  
+### Software Engineer Intern (Android) | **TLDE Technologies**
+*Nov 2025 – Dec 2025 | Remote*
 
-- Contributed to **7 production-grade KMP applications**.  
-- Built modern UI using **Jetpack Compose** and Material Design.  
-- Implemented the **WhatsApp Status Downloader** → boosted installs (**10K+ downloads**).  
-- Integrated Firebase Analytics, fixed Crashlytics issues.  
-- Handled file storage, deletion, permissions, and localization.  
-- **Tech Stack:** Kotlin, Jetpack Compose, KMP, CMP, Firebase Analytics, CI/CD  
+- Developed Android application features using Kotlin and Jetpack libraries
+- Implemented modern UI components following Material Design guidelines
+- Collaborated with cross-functional teams to deliver product requirements
 
----
-
-### 📌 **DevDisplay** — *Open Source Contributor (React)*  
-*Jan 2025 – Feb 2025 | Remote*  
-
-- Built pages like **Sponsors**, **About Us**, and **Journey**.  
-- Fixed UI/UX bugs and improved layouts.  
-- Contributed **10+ merged PRs**.  
-- **Tech Stack:** React.js, Tailwind CSS, Git/GitHub  
+**Tech Stack:** Kotlin • Android Jetpack • Material Design
 
 ---
 
+### Cross-Platform Mobile Developer | **Mifos Initiative**
+*Nov 2024 – Dec 2025 | Remote*
 
-✨ *In addition, I have also worked as a* **GFG Campus Ambassador, GirlScript Summer of Code Campus Ambassador, Class Representative, CSE Department DSA Student Coordinator, and DPISC (Core Coordinator, Placement Cell of RGUKT)** *— strengthening my leadership, communication, and community-building skills.*  
+**Mifos Summer of Code 2025 Scholar** — Selected for competitive 4-month paid internship ($2,500 stipend)
 
-<h3 align="center">📊 My Stats</h3>
+#### Impact & Achievements
+- **Authored 100+ PRs** across 4 production repositories with 98% merge rate
+- **Migrated 20+ modules** from Android-native to Kotlin Multiplatform architecture
+- **Reviewed 170+ pull requests**, ensuring code quality and architectural consistency
+- Led UI/UX redesign initiatives improving user experience across banking applications
+- Mentored 15+ contributors through code reviews and architectural guidance
 
-![Revanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=pie&theme=tokyonight)
+#### Key Contributions by Repository
 
+**🏦 [Android Client](https://github.com/openMF/android-client)** — Field Officer Banking Application
+- 50+ merged PRs implementing critical features and bug fixes
+- Redesigned core banking workflows with improved UX patterns
+- Migrated legacy XML views to Jetpack Compose
 
-## 🛠️ Technologies & Tools I Use
+**📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile)** — Customer Banking App
+- 39+ merged PRs focused on feature development and architectural improvements
+- Implemented type-safe navigation using Compose Navigation
+- Enhanced app stability through comprehensive testing
 
-### 🌐 Web Development
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-</p>
+**💳 [Mifos Pay](https://github.com/openMF/mobile-wallet)** — Mobile Wallet Application
+- 10+ merged PRs improving wallet functionality
+- Integrated modern payment processing features
+- Optimized app performance and resource utilization
 
-### 📱 App Development
-<p>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="25px"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-00599C?style=for-the-badge&logo=jetpackcompose&logoColor=61DAFB" height="25px"/>
-  <img alt="KMP (Kotlin Multiplatform)" src="https://img.shields.io/badge/KMP-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
-  <img alt="CMP (Compose Multiplatform)" src="https://img.shields.io/badge/CMP-00599C?style=for-the-badge&logo=kotlin&logoColor=61DAFB" height="25px"/>
-  <img alt="Hilt" src="https://img.shields.io/badge/Hilt-ED8B00?style=for-the-badge&logo=android&logoColor=white" height="25px"/>
-  <img alt="Koin" src="https://img.shields.io/badge/Koin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>
-</p>
+**Tech Stack:** Kotlin • KMP • CMP • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Room • Ktor • Koin • Material Design 3 • Google Maps SDK
 
-### ⚙️ Backend Development
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" height="25px"/>
-  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-</p>
+---
 
-### 💾 Databases
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" height="25px"/>
-</p>
+### Mobile Development Intern | **MobileByteSensei**
+*Apr 2025 – Nov 2025 | Remote*
 
-### 🔧 Version Control & Dev Tools
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-</p>
+Developed and maintained **7 production-grade KMP applications** with focus on cross-platform architecture and user experience.
 
-### 🌐 Communication & Collaboration
-<p>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="25px"/>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25px"/>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
-</p>
+#### Notable Achievement
+- **WhatsApp Status Downloader** — Architected and launched application achieving **10,000+ installs**
+- Implemented file management system with proper Android permissions handling
+- Integrated Firebase Analytics and resolved critical Crashlytics issues
+- Built reusable UI components using Jetpack Compose and Material Design 3
 
-### ☁️ Cloud & Firebase
-<p>
-  <img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25px"/>
-</p>
+**Tech Stack:** Kotlin • KMP • CMP • Jetpack Compose • Firebase • CI/CD • Material Design
 
-### 🧑‍💻 Programming Languages
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-</p>
+---
 
+### Open Source Contributor | **DevDisplay**
+*Jan 2025 – Feb 2025 | Remote*
 
-### IDEs:
-<p>
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
-</p>
+- Contributed **10+ merged PRs** to React-based developer community platform
+- Developed Sponsors, About Us, and Journey pages using modern web technologies
+- Fixed UI/UX bugs and improved responsive design across multiple pages
 
+**Tech Stack:** React.js • Tailwind CSS • Git/GitHub
 
+---
 
+## 🏆 Leadership & Community
 
-## 🌐 Coding Profiles:
+Beyond technical contributions, I've held leadership positions strengthening my communication and team management skills:
+
+- **GFG Campus Ambassador** — Organized technical workshops and coding competitions
+- **GirlScript Summer of Code Campus Ambassador** — Promoted open-source culture
+- **CSE Department DSA Coordinator** — Mentored students in data structures and algorithms
+- **DPISC Core Coordinator (Placement Cell)** — Assisted students with career development
+- **Class Representative** — Bridged communication between students and faculty
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat&logo=materialdesign&logoColor=white)
+
+### Architecture & Patterns
+- Clean Architecture • MVVM • MVI • Repository Pattern
+- Dependency Injection (Koin, Hilt)
+- SOLID Principles • Design Patterns
+- Type-Safe Navigation • Modular Architecture
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### Libraries & Frameworks
+- **Networking:** Ktor, Retrofit, OkHttp
+- **Database:** Room, SQLDelight
+- **Async:** Coroutines, Flow
+- **Testing:** JUnit, Mockito, Espresso
+- **UI:** Compose, Coil, Accompanist
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=compact&theme=tokyonight&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/revanthKumarJ)
+
+</div>
+
+---
+
+## 🎯 Competitive Programming
+
+Consistent problem solver across multiple platforms with focus on data structures and algorithms:
+
 <p align="center">
-<a href="https://leetcode.com/RevanthKumarJ/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
-<a href="https://auth.geeksforgeeks.org/user/jrevanth/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
-<a href="https://www.codechef.com/users/revanthkumarj1" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B05128.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/></a>
-<a href="https://www.hackerrank.com/jrevanth101" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231F8ACB.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/></a>
-<a href="https://www.naukri.com/code360/profile/revanthKumarJ" target="_blank"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" height="30px"/></a>
-<!-- <a href="https://atcoder.jp/users/RevanthKumarJ" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-%230A9DC7.svg?&style=for-the-badge&logo=atcoder&logoColor=white" height="30px"/></a>
-<a href="https://codeforces.com/profile/RevanthKumarJ" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height="30px"/></a> -->
+<a href="https://leetcode.com/RevanthKumarJ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/jrevanth/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/revanthkumarj1"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/jrevanth101"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.naukri.com/code360/profile/revanthKumarJ"><img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
 </p>
 
-## ❤️ Let's get connected:
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing Android development, Kotlin Multiplatform, or collaboration opportunities.
+
 <p align="center">
-<a href="https://www.linkedin.com/in/jilakararevanthkumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
-<!-- <a href="https://www.instagram.com/your_instagram_profile/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
-<a href="https://twitter.com/your_twitter_profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a> -->
+<a href="https://www.linkedin.com/in/jilakararevanthkumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jrevanth101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/revanthKumarJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
+
+<div align="center">
+
+### 💡 Open to opportunities in Android Development, Kotlin Multiplatform, and Mobile Architecture roles
+
+*"Writing clean, maintainable code is not just about making it work—it's about making it last."*
+
+</div>
