@@ -2,13 +2,14 @@
   <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Revanth this side!</h1>
 
 
-I'm a **Passionate Full Stack & Android Developer** focused on building user-friendly mobile apps and web experiences. I believe in clean design, scalable architecture, and impactful solutions.  
+I'm a **Passionate Full Stack & Android Developer** focused on building clean, scalable, and user-friendly mobile and web experiences.
 
-Currently working as an **MSOC 2025 Intern**, where I’m contributing to the **migration of an Android Field Officer application to Kotlin Multiplatform (KMP)**. Alongside, I serve as an **Android Intern at MobileByteSensei**, working on **real-time Play Store applications**, enhancing core functionalities using **KMP** and **Compose Multiplatform (CMP)**.  
+I’m currently working as an **Android Developer Intern at Swipe (YC S21)**.
 
-With practical experience from real-world projects and open-source contributions, I bring **modern development practices** like **CI/CD with GitHub Actions, Firebase App Distribution, Firebase Analytics, and Crashlytics**, along with strong version control and cross-platform expertise.  
+Previously, I’ve interned at **Mifos Initiative**, **MobileByteSensei**, and **TLDE Technologies** — all in **mobile application development using Kotlin**.
 
-
+I enjoy working with **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform (KMP)**, **Compose Multiplatform (CMP)**, and modern development tools to build impactful, real-world solutions.
+ 
 
 ## 📈 GitHub Overview
 
@@ -17,62 +18,78 @@ With practical experience from real-world projects and open-source contributions
 
 ## 💼 Experience
 
-### 📌 [Mifos Initiative](https://mifos.org/) —  **MSOC 2025 Intern & Open Source Contributor**  
-*Nov 2024 – Present | Remote*  
+---
 
-- 🚀 Migrated **20+ core and feature modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
-- 🎨 Contributed to complete UI overhaul of **[mifos-mobile](https://play.google.com/store/apps/details?id=org.mifos.mobile)** and **[android-client](https://play.google.com/store/apps/details?id=com.mifos.mifosxdroid)**.  
-- 🔧 Merged **90+ PRs**, resolved critical bugs, and co-authored major migrations:  
-  - **[mifos-mobile PRs](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)** (39+ merged)  
-  - **[android-client PRs](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthKumarJ)** (50+ merged)  
-- 🏆 Selected for the prestigious **Mifos Summer of Code 2025** program (awarded to top contributors who narrowly missed Google Summer of Code).  
-- 🤝 Actively participated in **architecture discussions, PR reviews, documentation, and Agile processes**.  
-- 🛠️ **Tech Stack & Practices:**  
-  - Navigation & Networking → Type-safe Navigation, Ktorfit, Room  
-  - UI & Theming → Jetpack, Material Theme, Compose Multiplatform  
-  - Architecture → MVVM, Clean Architecture, Coroutines & Flows  
-  - Dependency Injection → Koin, Hilt  
-  - Utilities → FileKit, language translation, Android compatibility  
+### 📌 **Swipe (YC S21)** — *Android Developer Intern*  
+*Dec 2025 – Present | Hyderabad (On-site)*  
+
+- 🚀 **Currently working** as an Android Developer Intern.  
+- Will be contributing to **Kotlin**, **Jetpack Compose**, and modern Android architecture.  
+- Excited to learn, contribute, and grow with the team.  
+- **Tech Stack:** Kotlin, Android Development, Android Jetpack  
 
 ---
 
-### 📌 [MobileByteSensei](https://www.mobilebytesensei.com/) — *Mobile Development Intern*  
+### 📌 **TLDE Technologies** — *Software Engineer Intern (Android)*  
+*Nov 2025 – Dec 2025 | Remote*  
 
-- 📱 Contributed to Play Store apps:  
-  - [**Social Media Downloader**](https://play.google.com/store/apps/details?id=com.sensei.social&pcampaignid=web_share)  
-  - [**Byte Wallpaper**](https://play.google.com/store/apps/details?id=org.mobilebytesensei.wallpaper&pcampaignid=web_share)  
-- 🎨 Built responsive UIs with **Jetpack Compose**, applying modern UX practices.  
-- ⚡ Implemented **WhatsApp Status Downloader feature**, significantly increasing downloads (**8K+ installs**).  
-- 🔐 Handled **permissions, storage access, localization, and Android version compatibility**.  
-- 🛠️ **Tech Stack & Practices:**  
-  - Networking & Data → **Ktorfit, Room**  
-  - Dependency Injection → **Koin**  
-  - Permissions & Storage → **Moko-Permissions, SAF, File API, Media Store**  
-  - Background & Scheduling → **Jobs API**  
-  - UI Development → **Jetpack Compose**  
-
+- 🔧 Worked on **Android application development** using Kotlin and Jetpack libraries.  
+- 📱 Built UI components and implemented app features with modern Android tools.  
+- **Tech Stack:** Kotlin, Android Jetpack  
 
 ---
 
-### 📌 [Abhiyanth (RGUKT RK Valley)](https://abhiyanthrkv.in/) — *Frontend Team Lead & Developer*  
-*Dec 2024 – Mar 2025 | Remote*  
+### 📌 **Mifos Initiative** — *Cross-Platform Mobile Developer & MSOC 2025 Intern*  
+*Nov 2024 – Dec 2025 | Remote*  
 
-- 👨‍💻 Led the **frontend team** for the annual TechnoCultural Fest.  
-- 🚀 Built and integrated **React + Firebase** frontend with database and admin panel.  
-- 🔧 Reviewed & merged **80+ PRs**, deployed on **Firebase Hosting**.  
-- 🛠️ **Tech Stack:** React.js, Firebase, Firestore, Git/GitHub, Redux.  
-- 🛠️ Merged **80+ PRs**: [Merged PRs](https://github.com/Student-Recreation-Center-CSE-RKV/Abhiyanth-Client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)  
+#### 🏆 Role Summary  
+- Contributed across **Mifos Mobile**, **Android Client**, **Mifos Pay**, and **kmp-project-template** for **1+ year**.  
+- Completed **Mifos Summer of Code 2025**, a **4-month paid internship** ($2500 stipend).  
+
+#### 🚀 Key Achievements  
+- Authored **100+ PRs**, co-authored **20+**, and reviewed **170+**.  
+- Migrated **20+ modules** to **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**.  
+- Redesigned UI flows, implemented new features, and fixed critical bugs.  
+- Followed **SOLID**, **Clean Architecture**, and **modular architecture** principles.  
+- Engaged in standups, PR reviews, mentoring contributors, and documentation improvements.
+
+#### 🔗 Major PR Contributions  
+
+[![Android Client – 50+ PRs](https://img.shields.io/badge/Android%20Client-50%2B%20Merged%20PRs-green)](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthKumarJ)
+[![Mifos Mobile – 39+ PRs](https://img.shields.io/badge/Mifos%20Mobile-39%2B%20Merged%20PRs-blue)](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)
+[![Mifos Pay – 10+ PRs](https://img.shields.io/badge/Mifos%20Pay-10%2B%20Merged%20PRs-orange)](https://github.com/openMF/mobile-wallet/pulls?q=is%3Apr+is%3Amerged+author%3ArevanthkumarJ)
+[![Reviewed PRs – 150+](https://img.shields.io/badge/Reviewed%20PRs-150%2B-purple)](https://github.com/pulls?q=is%3Apr+reviewed-by%3ArevanthKumarJ+org%3AopenMF+)
+
+
+
+#### 🛠️ Tech Stack  
+Kotlin, Jetpack, Material Design, KMP, CMP, Coroutines, Room, Ktorfit, FileKit, Google Maps SDK, Settings API,  
+MVVM, Clean Architecture, Type-safe Navigation, Koin 
 
 ---
 
-### 📌 [DevDisplay](https://github.com/codeaashu/DevDisplay) — *Open Source Contributor (React)*  
+### 📌 **MobileByteSensei** — *Mobile Development Intern (KMP & CMP Focused)*  
+*Apr 2025 – Nov 2025 | Remote*  
+
+- Contributed to **7 production-grade KMP applications**.  
+- Built modern UI using **Jetpack Compose** and Material Design.  
+- Implemented the **WhatsApp Status Downloader** → boosted installs (**10K+ downloads**).  
+- Integrated Firebase Analytics, fixed Crashlytics issues.  
+- Handled file storage, deletion, permissions, and localization.  
+- **Tech Stack:** Kotlin, Jetpack Compose, KMP, CMP, Firebase Analytics, CI/CD  
+
+---
+
+### 📌 **DevDisplay** — *Open Source Contributor (React)*  
 *Jan 2025 – Feb 2025 | Remote*  
 
-- 💻 Contributed **UI enhancements and new pages** (Sponsors, About Us, Journey).  
-- 🛠️ Fixed layout bugs and merged **10+ PRs**: [Merged PRs](https://github.com/codeaashu/DevDisplay/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ)  
-- 🛠️ **Tech Stack:** React.js, Tailwind CSS, Git/GitHub
+- Built pages like **Sponsors**, **About Us**, and **Journey**.  
+- Fixed UI/UX bugs and improved layouts.  
+- Contributed **10+ merged PRs**.  
+- **Tech Stack:** React.js, Tailwind CSS, Git/GitHub  
 
 ---
+
 
 ✨ *In addition, I have also worked as a* **GFG Campus Ambassador, GirlScript Summer of Code Campus Ambassador, Class Representative, CSE Department DSA Student Coordinator, and DPISC (Core Coordinator, Placement Cell of RGUKT)** *— strengthening my leadership, communication, and community-building skills.*  
 
