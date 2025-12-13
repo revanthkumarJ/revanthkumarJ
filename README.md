@@ -1,6 +1,6 @@
 # Revanth Kumar Jilakara
 
-**Android Engineer | Kotlin Multiplatform Specialist | Open Source Contributor**
+**Android Engineer | Kotlin Multiplatform Developer | Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jilakararevanthkumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/RevanthKumarJ/)
@@ -46,7 +46,7 @@ Contributing to Android application development using cutting-edge technologies 
 
 ---
 
-### Cross-Platform Mobile Developer | **Mifos Initiative**
+### OpenSource Mobile Developer | **Mifos Initiative**
 *Nov 2024 – Dec 2025 | Remote*
 
 **Mifos Summer of Code 2025** — Selected for competitive 4-month paid internship ($2,500 stipend)
@@ -83,7 +83,6 @@ Contributing to Android application development using cutting-edge technologies 
 Developed  **7 production-grade KMP applications** with focus on cross-platform architecture and user experience.
 
 #### Notable Achievement
-- **WhatsApp Status Downloader** — Architected and launched application achieving **10,000+ installs**
 - Implemented file management system with proper Android permissions handling
 - Integrated Firebase Analytics and resolved critical Crashlytics issues
 - Built reusable UI components using Jetpack Compose and Material Design 3
@@ -100,17 +99,6 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 - Fixed UI/UX bugs and improved responsive design across multiple pages
 
 **Tech Stack:** React.js • Tailwind CSS • Git/GitHub
-
----
-
-## 🏆 Leadership & Community
-
-Beyond technical contributions, I've held leadership positions strengthening my communication and team management skills:
-
-- **GFG Campus Ambassador** — Organized technical workshops and coding competitions
-- **GirlScript Summer of Code Campus Ambassador** — Promoted open-source culture
-- **CSE Department DSA Coordinator** — Mentored students in data structures and algorithms
-- **Class Representative** — Bridged communication between students and faculty
 
 ---
 
@@ -196,7 +184,5 @@ I'm always interested in discussing Android development, Kotlin Multiplatform, o
 <div align="center">
 
 ### 💡 Open to opportunities in Android Development, Kotlin Multiplatform, and Mobile Architecture roles
-
-*"Writing clean, maintainable code is not just about making it work—it's about making it last."*
 
 </div>
