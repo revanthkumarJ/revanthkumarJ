@@ -91,17 +91,6 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 
 ---
 
-### Open Source Contributor | **DevDisplay**
-*Jan 2025 – Feb 2025 | Remote*
-
-- Contributed **10+ merged PRs** to React-based developer community platform
-- Developed Sponsors, About Us, and Journey pages using modern web technologies
-- Fixed UI/UX bugs and improved responsive design across multiple pages
-
-**Tech Stack:** React.js • Tailwind CSS • Git/GitHub
-
----
-
 ## 🛠️ Technical Skills
 
 ### Languages
