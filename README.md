@@ -30,7 +30,7 @@ Currently working as an **Android Intern at Swipe (YC S21)** while staying invol
 ### Android Developer Intern | **Swipe (YC S21)**
 *Dec 2025 – Present | Hyderabad, India*
 
-Contributing to Android application development using cutting-edge technologies and modern architecture patterns.
+Contributing to Android application development using cutting-edge technologies and modern architecture patterns using Kotlin Jetpack Compose.
 
 **Tech Stack:** Kotlin • Jetpack Compose • Android Jetpack • MVVM
 
@@ -52,9 +52,9 @@ Contributing to Android application development using cutting-edge technologies 
 **Mifos Summer of Code 2025** — Selected for competitive 4-month paid internship ($2,500 stipend)
 
 #### Impact & Achievements
-- **Authored 100+ PRs** across 4 production repositories with 98% merge rate
+- **Authored 105+ PRs** across 4 production repositories with 98% merge rate
 - **Migrated 20+ modules** from Android-native to Kotlin Multiplatform architecture
-- **Reviewed 170+ pull requests**, ensuring code quality and architectural consistency
+- **Reviewed 175+ pull requests**, ensuring code quality and architectural consistency
 - Led UI/UX redesign initiatives improving user experience across banking applications
 - Mentored 5+ contributors through code reviews and architectural guidance
 
@@ -65,7 +65,7 @@ Contributing to Android application development using cutting-edge technologies 
 - Redesigned core banking workflows with improved UX patterns
 
 **📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Customer Banking App
-- 39+ merged PRs focused on feature development and architectural improvements
+- 40+ merged PRs focused on feature development and architectural improvements
 - Implemented type-safe navigation using Compose Navigation
 - Enhanced app stability through comprehensive testing
 
