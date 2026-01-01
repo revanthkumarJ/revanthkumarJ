@@ -36,16 +36,6 @@ Contributing to Android application development using cutting-edge technologies 
 
 ---
 
-### Software Engineer Intern (Android) | **TLDE Technologies**
-*Nov 2025 – Dec 2025 | Remote*
-
-- Developed Android application features using Kotlin and Jetpack libraries
-- Implemented modern UI components following Material Design guidelines
-
-**Tech Stack:** Kotlin • Android Jetpack • Material Design
-
----
-
 ### OpenSource Mobile Developer | **Mifos Initiative**
 *Nov 2024 – Dec 2025 | Remote*
 
@@ -148,7 +138,10 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 
 Consistent problem solver across multiple platforms with focus on data structures and algorithms:
 
-<p align="center">
+<img width="774" height="857" alt="Screenshot 2026-01-01 123944" src="https://github.com/user-attachments/assets/99632406-16f7-4962-bf62-167818eab7af" />
+
+
+<p >
 <a href="https://leetcode.com/RevanthKumarJ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://auth.geeksforgeeks.org/user/jrevanth/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/revanthkumarj1"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
@@ -163,6 +156,7 @@ Consistent problem solver across multiple platforms with focus on data structure
 I'm always interested in discussing Android development, Kotlin Multiplatform, or collaboration opportunities.
 
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/jilakararevanthkumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jrevanth101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/revanthKumarJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
