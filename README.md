@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack Android engineer with **1+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **100+ merged PRs** and **170+ code reviews** across enterprise-level open-source projects.
+Full-stack Android engineer with **1+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **110+ merged PRs** and **200+ code reviews** across enterprise-level open-source projects.
 
 Currently working as an **Android Intern at Swipe (YC S21)** while staying involved in open-source and learning whenever possible from real-time code.
 
@@ -55,7 +55,7 @@ Contributing to Android application development using cutting-edge technologies 
 - Redesigned core banking workflows with improved UX patterns
 
 **📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Customer Banking App
-- 40+ merged PRs focused on feature development and architectural improvements
+- 45+ merged PRs focused on feature development and architectural improvements
 - Implemented type-safe navigation using Compose Navigation
 - Enhanced app stability through comprehensive testing
 
@@ -138,7 +138,7 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 
 Consistent problem solver across multiple platforms with focus on data structures and algorithms:
 
-<img width="774" height="857" alt="Screenshot 2026-01-01 123944" src="https://github.com/user-attachments/assets/99632406-16f7-4962-bf62-167818eab7af" />
+<img width="700" alt="Screenshot 2026-01-01 123944" src="https://github.com/user-attachments/assets/99632406-16f7-4962-bf62-167818eab7af" />
 
 
 <p >
