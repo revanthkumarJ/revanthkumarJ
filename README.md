@@ -27,12 +27,17 @@ Currently working as an **Android Intern at Swipe (YC S21)** while staying invol
 
 ## 💼 Professional Experience
 
-### Android Developer Intern | **Swipe (YC S21)**
-*Dec 2025 – Present | Hyderabad, India*
+### 💼 Android Developer Intern | Swipe (YC S21)
+**Dec 2025 – Present | Hyderabad, India**
 
-Contributing to Android application development using cutting-edge technologies and modern architecture patterns using Kotlin Jetpack Compose.
+- Working on the **Swipe Mobile Application**, contributing to production-level Android development.
+- Migrating legacy **XML-based UI to Jetpack Compose**, creating modern and visually appealing UI screens.
+- Resolving UI and functional bugs across **XML and Jetpack Compose** to enhance app stability and user experience.
+- Collaborating in a **multi-module Clean Architecture** project following **MVVM** and Android Jetpack best practices.
 
-**Tech Stack:** Kotlin • Jetpack Compose • Android Jetpack • MVVM
+**Tech Stack:**  
+Kotlin • Jetpack Compose • Android Jetpack • MVVM • Clean Architecture • Multi-Module Architecture
+
 
 ---
 
