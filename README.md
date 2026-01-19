@@ -127,11 +127,11 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href='https://github.com/revanthkumarJ/github-stats'>
+  <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Nagarjuna0033/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=revanthkumarJ&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumarJ&layout=compact&theme=tokyonight&hide_border=true)
+  <img width="355" height="355" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&title_color=429FFF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&border_color=42464B&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=revanthkumarJ&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/revanthKumarJ)
 
