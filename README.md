@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack Android engineer with **1+ years of professional experience** building production-grade mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture** principles. Proven track record of delivering scalable solutions with **110+ merged PRs** and **200+ code reviews** across enterprise-level open-source projects.
+Full-stack Android engineer with **1.5+ years of professional experience** building production-grade mobile applications across **4 companies** — Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture**, with experience building scalable, maintainable, and high-performance mobile applications for production environments.
 
 Currently working as an **Android Intern at Swipe (YC S21)** while staying involved in open-source and learning whenever possible from real-time code.
 
@@ -30,14 +30,13 @@ Currently working as an **Android Intern at Swipe (YC S21)** while staying invol
 ### 💼 Android Developer Intern | Swipe (YC S21)
 **Dec 2025 – Present | Hyderabad, India**
 
-- Working on the **Swipe Mobile Application**, contributing to production-level Android development.
-- Migrating legacy **XML-based UI to Jetpack Compose**, creating modern and visually appealing UI screens.
-- Resolving UI and functional bugs across **XML and Jetpack Compose** to enhance app stability and user experience.
-- Collaborating in a **multi-module Clean Architecture** project following **MVVM** and Android Jetpack best practices.
+- Migrated major application flows including **Onboarding, Document Settings, Banks, Expenses, and Products** completely from **XML to Jetpack Compose**, improving code reusability, maintainability, and UI consistency.
+- Designed and developed modern, responsive, and visually polished UI screens in **Jetpack Compose** to enhance overall user experience.
+- Worked on **50+ production issues and feature enhancements**, contributing to app stability, performance improvements, and smoother business workflows.
+- Collaborated in a **multi-module Clean Architecture** project following **MVVM** and Android Jetpack best practices.
 
 **Tech Stack:**  
 Kotlin • Jetpack Compose • Android Jetpack • MVVM • Clean Architecture • Multi-Module Architecture
-
 
 ---
 
@@ -49,9 +48,9 @@ Kotlin • Jetpack Compose • Android Jetpack • MVVM • Clean Architecture �
 #### Impact & Achievements
 - **Authored 105+ PRs** across 4 production repositories with 98% merge rate
 - **Migrated 20+ modules** from Android-native to Kotlin Multiplatform architecture
-- **Reviewed 175+ pull requests**, ensuring code quality and architectural consistency
+- **Reviewed 200+ pull requests**, ensuring code quality and architectural consistency
 - Led UI/UX redesign initiatives improving user experience across banking applications
-- Mentored 5+ contributors through code reviews and architectural guidance
+- Mentored 10+ contributors through code reviews and architectural guidance
 
 #### Key Contributions by Repository
 
