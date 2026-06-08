@@ -10,8 +10,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Production-focused Android engineer with **1.5+ years of experience** across **4 companies** — 
 Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin Multiplatform 
 (KMP)**, **Jetpack Compose**, and **Clean Architecture**, building cross-platform mobile 
