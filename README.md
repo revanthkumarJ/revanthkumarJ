@@ -10,64 +10,92 @@
 
 ## 👨‍💻 About Me
 
-Full-stack Android engineer with **1.5+ years of professional experience** building production-grade mobile applications across **4 companies** — Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Clean Architecture**, with experience building scalable, maintainable, and high-performance mobile applications for production environments.
+## 👨‍💻 About Me
 
-Currently working as an **Android Intern at Swipe (YC S21)** while staying involved in open-source and learning whenever possible from real-time code.
+Production-focused Android engineer with **1.5+ years of experience** across **4 companies** — 
+Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin Multiplatform 
+(KMP)**, **Jetpack Compose**, and **Clean Architecture**, building cross-platform mobile 
+applications that run on Android, iOS, desktop, and web.
+
+Currently an **Android Developer at Swipe (YC S21)**, modernizing 10 production flows across 
+**70+ screens** from XML to Jetpack Compose with MVI architecture. Concurrently a **Mentor at 
+Mifos Initiative** — conducting GSoC & C4GT interviews, reviewing **230+ PRs**, and guiding 
+contributors on Kotlin Multiplatform and mobile architecture.
 
 
 ### Key Expertise
-- 🏗️ Clean Architecture & SOLID Principles
+- 🏗️ Clean Architecture, MVVM & MVI — Multi-Module, Feature-Modular Apps
 - 🚀 Kotlin Multiplatform (KMP) & Compose Multiplatform (CMP)
-- 📱 Modern Android Development (Jetpack Compose, Material Design 3)
-- 🔄 Dependency Injection (Koin, Hilt)
-- 🧪 Test-Driven Development & CI/CD
-- 👥 Code Review & Mentorship
+- 📱 Modern Android Development — Jetpack Compose, Material Design 3, Type-Safe Navigation
+- 🔄 Dependency Injection — Koin & Hilt
+- 🔥 Production Debugging — Firebase Crashlytics, Analytics & Intercom
+- 🧪 CI/CD Pipelines & Cross-Platform Delivery
+- 👥 Technical Leadership — Open Source Mentorship(C4GT & GSOC), PR Reviews
 
 ---
 
 ## 💼 Professional Experience
 
-### 💼 Android Developer Intern | Swipe (YC S21)
+### 💼 Android Developer | Swipe (YC S21)
 **Dec 2025 – Present | Hyderabad, India**
 
-- Migrated major application flows including **Onboarding, Document Settings, Banks, Expenses, and Products** completely from **XML to Jetpack Compose**, improving code reusability, maintainability, and UI consistency.
-- Designed and developed modern, responsive, and visually polished UI screens in **Jetpack Compose** to enhance overall user experience.
-- Worked on **50+ production issues and feature enhancements**, contributing to app stability, performance improvements, and smoother business workflows.
-- Collaborated in a **multi-module Clean Architecture** project following **MVVM** and Android Jetpack best practices.
+- Modernized **10 production flows across 70+ screens** by migrating legacy XML UI to 
+  **Jetpack Compose**, redesigning UX, upgrading backend API integrations, and implementing 
+  scalable **multi-module MVI architecture**.
+- Refactored features from a monolithic app module into independent feature modules using 
+  **Kotlin, Coroutines, Flow, Hilt, Retrofit, and Room** — improving scalability and 
+  long-term maintainability.
+- Investigated and resolved production crashes, UI defects, and customer-reported issues 
+  using **Firebase Crashlytics and Intercom**, improving application reliability and 
+  smoother business operations.
 
-**Tech Stack:**  
-Kotlin • Jetpack Compose • Android Jetpack • MVVM • Clean Architecture • Multi-Module Architecture
+**Tech Stack:**
+Kotlin • Jetpack Compose • MVI • Clean Architecture • Multi-Module • Hilt • Retrofit • 
+Room • Coroutines • Flow
 
 ---
 
-### OpenSource Mobile Developer | **Mifos Initiative**
-*Nov 2024 – Dec 2025 | Remote*
+### 🌐 OpenSource Mobile Developer → Mentor | **Mifos Initiative**
+*Nov 2024 – Present | Remote*
 
-**Mifos Summer of Code 2025** — Selected for competitive 4-month paid internship ($2,500 stipend)
+**Role Progression:**
+🎓 **Mifos Summer of Code 2025** — Jun 2025 – Sep 2025  
+💻 **Open Source Mobile Developer** — Nov 2024 – Present  
+👨‍🏫 **Mentor**  — Mar 2026 – Present
+
+---
 
 #### Impact & Achievements
-- **Authored 105+ PRs** across 4 production repositories with 98% merge rate
-- **Migrated 20+ modules** from Android-native to Kotlin Multiplatform architecture
-- **Reviewed 200+ pull requests**, ensuring code quality and architectural consistency
-- Led UI/UX redesign initiatives improving user experience across banking applications
-- Mentored 10+ contributors through code reviews and architectural guidance
+- **Authored 110+ PRs** across **5 production repositories** with 98% merge rate, 
+  contributing to financial inclusion platforms serving developing markets
+- **Migrated 20+ modules** from Android-native to Kotlin Multiplatform, enabling 
+  shared codebases across **Android, iOS, desktop, and web**
+- **Reviewed 230+ pull requests**, enforcing Clean Architecture and type-safe navigation 
+  — functioning as technical lead on architectural consistency across the org's mobile stack
+- Led UI modernization across **100+ screens** in Android Client and Mifos Mobile, 
+  including an architectural migration from **MVVM to MVI** improving state management 
+  and scalability
+- Selected for **Mifos Summer of Code 2025** — competitive 4-month global open-source 
+  program with **$2,500 stipend**
+- Conducting interviews for **GSoC and Code4GovTech (C4GT)**, running standups, and 
+  guiding **10+ new contributors** through onboarding and open-source contributions
 
 #### Key Contributions by Repository
 
 **🏦 [Android Client](https://github.com/openMF/android-client/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Field Officer Banking Application
-- 50+ merged PRs implementing critical features and bug fixes
-- Redesigned core banking workflows with improved UX patterns
+- 50+ merged PRs implementing critical features, bug fixes, and UX improvements
+- Redesigned core banking workflows and led MVVM → MVI architectural migration
 
 **📱 [Mifos Mobile](https://github.com/openMF/mifos-mobile/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Customer Banking App
-- 45+ merged PRs focused on feature development and architectural improvements
-- Implemented type-safe navigation using Compose Navigation
-- Enhanced app stability through comprehensive testing
+- 45+ merged PRs focused on KMP migration and architectural improvements
+- Implemented type-safe navigation and contributed to MVVM → MVI migration
 
 **💳 [Mifos Pay](https://github.com/openMF/mobile-wallet/pulls?q=is%3Amerged+is%3Apr+author%3ArevanthkumarJ+)** — Mobile Wallet Application
-- 10+ merged PRs improving wallet functionality
-- Optimized app performance and resource utilization
+- 10+ merged PRs improving wallet functionality and performance
 
-**Tech Stack:** Kotlin • KMP • CMP • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Room • Ktor • Koin • Material Design 3 • Google Maps SDK
+**Tech Stack:**
+Kotlin • KMP • CMP • Jetpack Compose • MVI • MVVM • Clean Architecture • 
+Coroutines • Room • Ktor • Koin • Material Design 3 • Google Maps SDK
 
 ---
 
@@ -90,21 +118,34 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+> **Primary:** Kotlin — all production Android & KMP development  
+> **Supporting:** Java (DSA & competitive programming), SQL (Room/SQLDelight queries)
+
+---
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat&logo=materialdesign&logoColor=white)
+![CMP](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=flat&logo=materialdesign&logoColor=white)
+
+- **Android** — Production apps at Swipe, Mifos, MobileByteSensei
+- **KMP + CMP** — 7 production KMP apps, 20+ module migrations (Android → KMP)
+- **Cross-Platform Targets** — Android, iOS, Desktop, Web
+
+---
 
 ### Architecture & Patterns
-- Clean Architecture • MVVM • MVI • Repository Pattern
-- Dependency Injection (Koin, Hilt)
-- SOLID Principles • Design Patterns
-- Type-Safe Navigation • Modular Architecture
+- **MVI & MVVM** — Led MVVM → MVI migration across 100+ screens at Mifos
+- **Clean Architecture** — Feature-modular, multi-module project structure
+- **Dependency Injection** — Hilt (Android), Koin (KMP)
+- **Type-Safe Navigation** — Compose Navigation, implemented across banking apps
+- **SOLID Principles** — Repository Pattern, Design Patterns
+
+---
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -113,12 +154,19 @@ Developed  **7 production-grade KMP applications** with focus on cross-platform 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+- **Firebase** — Crashlytics (crash monitoring), Analytics (observability)
+- **Intercom** — Customer issue tracking and production debugging at Swipe
+- **CI/CD** — Pipeline setup and maintenance across 7 KMP projects
+- **Google Maps SDK** — Integrated in Mifos banking applications
+
+---
+
 ### Libraries & Frameworks
-- **Networking:** Ktor, Retrofit, OkHttp
-- **Database:** Room, SQLDelight
-- **Async:** Coroutines, Flow
+- **Networking:** Ktor (KMP), Retrofit, OkHttp
+- **Database:** Room (Android), SQLDelight (KMP)
+- **Async:** Coroutines, Flow — used across all production projects
+- **UI:** Compose, Material Design 3, Coil, Lottie, Accompanist
 - **Testing:** JUnit, Mockito, Espresso
-- **UI:** Compose, Coil, Accompanist
 
 ---
 
