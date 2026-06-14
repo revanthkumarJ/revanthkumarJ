@@ -15,10 +15,12 @@ Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin M
 (KMP)**, **Jetpack Compose**, and **Clean Architecture**, building cross-platform mobile 
 applications that run on Android, iOS, desktop, and web.
 
-Currently an **Android Developer at Swipe (YC S21)**, modernizing 10 production flows across 
-**70+ screens** from XML to Jetpack Compose with MVI architecture. Concurrently a **Mentor at 
-Mifos Initiative** — conducting GSoC & C4GT interviews, reviewing **230+ PRs**, and guiding 
-contributors on Kotlin Multiplatform and mobile architecture.
+Currently an **SDE 1 - Android Developer at Swipe (YC S21)** — promoted from Android Developer 
+Intern within 6 months — modernizing 10 production flows across **70+ screens** from XML to 
+Jetpack Compose with MVI architecture, and introducing **Gradle convention plugins** to reduce 
+build script duplication by **80%**. Concurrently a **Mentor at Mifos Initiative** — conducting 
+GSoC & C4GT interviews, reviewing **230+ PRs**, and guiding contributors on Kotlin Multiplatform 
+and mobile architecture.
 
 
 ### Key Expertise
@@ -34,22 +36,29 @@ contributors on Kotlin Multiplatform and mobile architecture.
 
 ## 💼 Professional Experience
 
-### 💼 Android Developer | Swipe (YC S21)
-**Dec 2025 – Present | Hyderabad, India**
+### 💼 SDE 1 - Android | Swipe (YC S21)
+
+**Role Progression:**
+ **SDE 1 - Android** — June 2026 – Present  
+ **Android Developer Intern** — Dec 2025 – June 2026
+
+**Hyderabad, India**
 
 - Modernized **10 production flows across 70+ screens** by migrating legacy XML UI to 
   **Jetpack Compose**, redesigning UX, upgrading backend API integrations, and implementing 
   scalable **multi-module MVI architecture**.
+- Introduced **Gradle convention plugins** via a `build-logic` module, centralizing build 
+  configuration across modules and reducing build script duplication by **80%**.
 - Refactored features from a monolithic app module into independent feature modules using 
   **Kotlin, Coroutines, Flow, Hilt, Retrofit, and Room** — improving scalability and 
   long-term maintainability.
-- Investigated and resolved production crashes, UI defects, and customer-reported issues 
-  using **Firebase Crashlytics and Intercom**, improving application reliability and 
+- Investigated and resolved **50+ production crashes**, UI defects, and customer-reported 
+  issues using **Firebase Crashlytics and Intercom**, improving application reliability and 
   smoother business operations.
 
 **Tech Stack:**
-Kotlin • Jetpack Compose • MVI • Clean Architecture • Multi-Module • Hilt • Retrofit • 
-Room • Coroutines • Flow
+Kotlin • Jetpack Compose • MVI • Clean Architecture • Multi-Module • Gradle Convention Plugins • 
+Hilt • Retrofit • Room • Coroutines • Flow
 
 ---
 
@@ -58,7 +67,7 @@ Room • Coroutines • Flow
 
 **Role Progression:**
 🎓 **Mifos Summer of Code 2025** — Jun 2025 – Sep 2025  
-💻 **Open Source Mobile Developer** — Nov 2024 – Present  
+💻 **Open Source Mobile Developer** — Nov 2024 – Feb 2026  
 👨‍🏫 **Mentor**  — Mar 2026 – Present
 
 ---
