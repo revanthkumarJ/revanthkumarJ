@@ -16,7 +16,7 @@ Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin M
 applications that run on Android, iOS, desktop, and web.
 
 Currently an **SDE 1 - Android Developer at Swipe (YC S21)** — promoted from Android Developer 
-Intern within 6 months — modernizing 10 production flows across **70+ screens** from XML to 
+Intern within 6 months — modernizing 15 production flows across **70+ screens** from XML to 
 Jetpack Compose with MVI architecture, and introducing **Gradle convention plugins** to reduce 
 build script duplication by **80%**. Concurrently a **Mentor at Mifos Initiative** — conducting 
 GSoC & C4GT interviews, reviewing **230+ PRs**, and guiding contributors on Kotlin Multiplatform 
@@ -44,7 +44,7 @@ and mobile architecture.
 
 **Hyderabad, India**
 
-- Modernized **10 production flows across 70+ screens** by migrating legacy XML UI to 
+- Modernized **15 production flows across 70+ screens** by migrating legacy XML UI to 
   **Jetpack Compose**, redesigning UX, upgrading backend API integrations, and implementing 
   scalable **multi-module MVI architecture**.
 - Introduced **Gradle convention plugins** via a `build-logic` module, centralizing build 
