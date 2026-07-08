@@ -10,17 +10,11 @@
 
 ## 👨‍💻 About Me
 
-Production-focused Android engineer with **1.5+ years of experience** across **4 companies** — 
-Swipe, Mifos, MobileByteSensei, and TLDE Technologies. Specialized in **Kotlin Multiplatform 
-(KMP)**, **Jetpack Compose**, and **Clean Architecture**, building cross-platform mobile 
-applications that run on Android, iOS, desktop, and web.
+Production-focused Android Developer with 1.7 (0.2 years full time + 1.5 years internship ) years of production experience across 10+ mobile applications spanning 4 companies (Swipe, Mifos, Tlde Technologies, MobileByteSensei), specializing in Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP) for Android, iOS, Desktop, and Web.
 
-Currently an **SDE 1 - Android Developer at Swipe (YC S21)** — promoted from Android Developer 
-Intern within 6 months — modernizing 15 production flows across **70+ screens** from XML to 
-Jetpack Compose with MVI architecture, and introducing **Gradle convention plugins** to reduce 
-build script duplication by **80%**. Concurrently a **Mentor at Mifos Initiative** — conducting 
-GSoC & C4GT interviews, reviewing **230+ PRs**, and guiding contributors on Kotlin Multiplatform 
-and mobile architecture.
+Currently SDE-1 Android at Swipe (YC S21), where I modernized 10 production flows comprising 70+ screens by migrating legacy XML UI to Jetpack Compose, implemented a scalable multi-module MVI architecture, and introduced Gradle convention plugins that reduced build script duplication by 80%. Resolved 50+ production crashes and UI defects using Firebase Crashlytics and Intercom.
+
+Maintainer and Mentor (GSoC & C4GT) at Mifos Initiative, selected for Mifos Summer of Code 2025 ($2,500 stipend). Migrated 20+ modules to Kotlin Multiplatform, authored 110+ pull requests (98% merge rate), reviewed 230+ PRs, and mentored 10+ new open-source contributors.
 
 
 ### Key Expertise
