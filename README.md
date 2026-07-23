@@ -225,15 +225,7 @@ I write about Android engineering and Kotlin Multiplatform on [Medium](https://m
 
 ## 💬 What People Say
 
-> *"I highly recommend Jilakara Revanth Kumar as a Kotlin Multiplatform Developer who consistently delivers high-quality, scalable solutions.
-
-Revanth brings strong expertise in Kotlin Multiplatform development, with a deep understanding of building efficient, cross-platform architectures. His approach to system design and architecture is thoughtful, well-structured, and aligned with best practices, ensuring maintainable and future-ready codebases.
-
-One of his standout strengths is his debugging ability, he has a sharp eye for identifying complex issues and resolving them with clarity and precision. He approaches challenges methodically and remains solution-oriented, even in high-pressure situations.
-
-Beyond his technical skills, Revanth is reliable, proactive, and a great collaborator, making him a valuable asset to any development team.
-
-I strongly recommend him for any role requiring expertise in Kotlin Multiplatform and robust software architecture."*
+> *"I highly recommend Jilakara Revanth Kumar as a Kotlin Multiplatform Developer who consistently delivers high-quality, scalable solutions. Revanth brings strong expertise in Kotlin Multiplatform development, with a deep understanding of building efficient, cross-platform architectures. His approach to system design and architecture is thoughtful, well-structured, and aligned with best practices, ensuring maintainable and future-ready codebases. One of his standout strengths is his debugging ability, he has a sharp eye for identifying complex issues and resolving them with clarity and precision. He approaches challenges methodically and remains solution-oriented, even in high-pressure situations.Beyond his technical skills, Revanth is reliable, proactive, and a great collaborator, making him a valuable asset to any development team. I strongly recommend him for any role requiring expertise in Kotlin Multiplatform and robust software architecture."*
 >
 > — **Rajan Maurya**, Engineering Manager | Kotlin Multiplatform Expert · [LinkedIn Recommendation](https://www.linkedin.com/in/jilakararevanthkumar/details/recommendations/)
 
